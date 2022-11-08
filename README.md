@@ -1,10 +1,7 @@
 
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'm Beby Kurniawan
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/Bebykurniawan)
-
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
 
 🖖 Coding Enthusiast | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 👶🏻 Baby Progammer
 
