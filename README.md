@@ -1,13 +1,18 @@
-
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'm Beby Kurniawan
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Beby+Kurniawan....;Salam+kurung+kurawal&center=true&size=30" color="white">
+  </a>
+</h1>
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feshop.macsales.com%2Fblog%2F45637-quick-tip-setting-a-live-photo-as-a-mac-screen-saver%2F&psig=AOvVaw26Ms4anQtJ-T9nX4zNZgyU&ust=1668039282283000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODRj9non_sCFQAAAAAdAAAAABAT" width="100">
+</p>
 🖖 Coding Enthusiast | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 👶🏻 Baby Progammer
 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
