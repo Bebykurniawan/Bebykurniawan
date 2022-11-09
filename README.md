@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Beby....;Salam+kurung+kurawal&center=true&size=30">
   </a>
 </h1>
-<p align="center"><img src="giphy.gif"/></p>
+<img src="giphy.gif" width="120px"/>
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 🖖 Coding Enthusiast | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 👶🏻 Baby Progammer
