@@ -1,8 +1,5 @@
-<h1 align="center" color="white">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Beby....;Salam+kurung+kurawal&center=true&size=30&color=white">
-  </a>
-</h1>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Beby Kurniawan
+
 <img src="giphy.gif" width="120px"/>
  
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
