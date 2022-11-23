@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Beby Kurniawan
 
-<img src="giphy.gif" width="120px"/>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
  
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
