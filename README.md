@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)"  />
 
-## Languages and Tools ⚡
+## Languages and Tools 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-###
+## Social Media
 
 <div align="left">
   <a href="https://www.instagram.com/iblamebyy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
