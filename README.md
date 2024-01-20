@@ -24,16 +24,6 @@
 
 ###
 
-## Social Media
-
-<div align="left">
-  <a href="https://www.instagram.com/iblamebyy?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 ## Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bebykurniawan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
