@@ -1,3 +1,8 @@
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
 <h1 align="left">Beby Kurniawan - Beginner Front-End</h1>
 
 ###
@@ -34,5 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bebykurniawan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-###
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
