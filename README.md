@@ -1,7 +1,7 @@
 <img
   width="100%"
   alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  src="Rainbow.gif"
 />
 <h1 align="left">Beby Kurniawan - Beginner Front-End</h1>
 
@@ -42,5 +42,5 @@
 <img
   width="100%"
   alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  src="Rainbow.gif"
 />
