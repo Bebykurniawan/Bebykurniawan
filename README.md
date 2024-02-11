@@ -1,30 +1,30 @@
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2500&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+Everyone!!" alt="Typing SVG" /></a></h2>
-<div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
-</div>
-
-###
-###
+<h1 align="left">Beby Kurniawan - Beginner Front-End</h1>
 
 ###
 
+<p align="left">A junior programmer who is passionate about exploring the world of coding and software development. <br> <br>I have an educational background in computer science and have completed various courses and small projects to deepen my understanding of the world of programming.</p>
+
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)"  />
+<h2 align="left">Personal Website</h2>
 
-## Languages and Tools 
+###
+
+<p align="left">Coming soon😬</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
 
 ###
 
