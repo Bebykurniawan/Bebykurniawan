@@ -13,8 +13,8 @@
 </h1>
 
    <img
-    width="150px"
-    height="150px"
+    width="200px"
+    height="200px"
     alt="pixel art"
     src="pixel.gif"
   />
