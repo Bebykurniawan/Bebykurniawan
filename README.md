@@ -3,7 +3,7 @@
   alt="Rainbow"
   src="Rainbow.gif"
 />
-<h1 align="left">Beby Kurniawan - Beginner Front-End
+<h1 align="left">Beby Kurniawan - Front-End 
    <img
     width="30px"
     alt="Waving Emoji"
