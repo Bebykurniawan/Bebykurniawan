@@ -6,8 +6,8 @@
 <h1 align="left">Beby Kurniawan - Front-End 
    <img
     width="30px"
-    alt="Waving Emoji"
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    alt="Wasp Gif"
+    src="wasp.gif"
   />
 </h1>
 
