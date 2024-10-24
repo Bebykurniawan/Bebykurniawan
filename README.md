@@ -12,6 +12,12 @@
   />
 </h1>
 
+   <img
+    width="150px"
+    height="150px"
+    alt="pixel art"
+    src="pixel.gif"
+  />
 ###
 
 <p align="left">A junior programmer who is passionate about exploring the world of coding and software development. <br> <br>I have an educational background in computer science and have completed various courses and small projects to deepen my understanding of the world of programming.</p>
