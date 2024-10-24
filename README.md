@@ -5,8 +5,8 @@
 />
 <h1 align="left">Beby Kurniawan - Front-End 
    <img
-    width="200px"
-    height="200px"
+    width="150px"
+    height="150px"
     alt="Wasp Gif"
     src="wasp.gif"
   />
