@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Languages I've played with</h2>
+<h2 align="left">Tech I've played with</h2>
 
 ###
 
