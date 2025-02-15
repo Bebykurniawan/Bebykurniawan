@@ -14,13 +14,7 @@
 
 ###
 
-<p align="left">A programmer who is passionate about exploring the world of coding and software development. <br>
-   <img
-    width="200px"
-    height="200px"
-    alt="pixel art"
-    src="pixel.gif"
-  /><br>I have an educational background in computer science and have completed various courses and small projects to deepen my understanding of the world of programming.</p>
+<p align="left">"A programmer who is passionate about exploring the world of coding, software development, and UI web design. With an educational background in SIJA, I have completed various courses and small projects to improve my understanding of programming while also improving my skills in crafting intuitive and aesthetically pleasing user interfaces..</p>
 
 ###
 
@@ -32,7 +26,7 @@
 
 ###
 
-<h2 align="left">Tech I've played with</h2>
+<h2 align="left">Tech I've been playing with</h2>
 
 ###
 
