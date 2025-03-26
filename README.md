@@ -37,7 +37,15 @@
 
 ###
 
-<h2 align="left">Tech I've been playing with</h2>
+<h2 align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=1&color=FFFFFF&center=false&vCenter=false&width=40&height=50&lines=T" 
+    alt="Handwritten T"
+    style="display: inline; vertical-align: middle;"
+  />
+  ech I've been playing with
+</h2>
+
 
 ###
 
