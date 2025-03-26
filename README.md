@@ -14,12 +14,10 @@
 </h1>
 
 <p align="left">
-  <a href="">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=2000&pause=500&color=FFFFFF&width=435&lines=UI+Engineer;Frontend+Developer;No-Code+Developer;Product+Designer" 
       alt="Typing SVG"
     />
-  </a>
 </p>
 
 ###
