@@ -20,8 +20,6 @@
     />
 </p>
 
-###
-
 <p align="left">A programmer who is passionate about exploring the world of coding, software development, and UI web design. With an educational background in SIJA, I have completed various courses and small projects to improve my understanding of programming while also improving my skills in crafting intuitive and aesthetically pleasing user interfaces.</p>
 
 ###
