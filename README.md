@@ -3,15 +3,25 @@
   alt="Rainbow"
   src="Rainbow.gif"
 />
-<h1 align="left">Beby Kurniawan 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=2000&pause=500&color=FFFFFF&width=435&lines=UI+Engineer;Frontend+Developer;No-Code+Developer;Product+Designer" alt="Typing SVG" /></a>
-   <img
-    width="25px"
-    height="25px"
-    alt="Wasp Gif"
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="left">
+  Beby Kurniawan 
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="25" 
+    height="25" 
+    alt="Waving Hand"
   />
 </h1>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=2000&pause=500&color=FFFFFF&width=435&lines=UI+Engineer;Frontend+Developer;No-Code+Developer;Product+Designer" 
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 ###
 
