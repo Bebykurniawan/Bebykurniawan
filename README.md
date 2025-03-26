@@ -3,7 +3,8 @@
   alt="Rainbow"
   src="Rainbow.gif"
 />
-<h1 align="left">Beby Kurniawan - Front-End 
+<h1 align="left">Beby Kurniawan 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=2000&pause=500&color=FFFFFF&width=435&lines=UI+Engineer;Frontend+Developer;No-Code+Developer;Product+Designer)](https://git.io/typing-svg)
    <img
     width="25px"
     height="25px"
