@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Framer-282C34?logo=framer&logoColor=blue" alt="Framer logo" title="Framer" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/FramerMotion-F7DF1E?logo=framer&logoColor=000000" alt="Framer Motion logo" title="Framer Motion" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/FramerMotion-282C34?logo=framer&logoColor=F7DF1E" alt="Framer Motion logo" title="Framer Motion" height="25" />&nbsp;
 </div>
 
 ###
